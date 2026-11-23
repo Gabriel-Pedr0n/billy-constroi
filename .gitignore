@@ -1,0 +1,9 @@
+saida/
+previas/
+quadros/
+final/
+*.wav
+estado.json
+__pycache__/
+*.pyc
+*.bak
